@@ -1,0 +1,10 @@
+com\Eleap\Algorithms\com\Admin\CoursesSection\CoursesSectionAdminPage.class
+com\Eleap\Algorithms\com\Admin\CoursesSection\QuizResultTabs.class
+com\Eleap\Algorithms\com\Admin\CoursesSection\DropDownMenuTab.class
+com\Eleap\Algorithms\BasePage.class
+com\Eleap\Algorithms\com\Admin\CoursesSection\MyAssignedSelfEnrollmentTab.class
+com\Eleap\Algorithms\com\Admin\CoursesSection\WaitHelper.class
+com\Eleap\Algorithms\com\Admin\CoursesSection\BaseTab.class
+com\Eleap\Algorithms\com\Admin\CoursesSection\ManageCategoriesManageEventsTab.class
+com\Eleap\Algorithms\com\Admin\CoursesSection\ComponentHelper.class
+com\Eleap\Algorithms\com\Admin\CoursesSection\LoginAdminPage.class
